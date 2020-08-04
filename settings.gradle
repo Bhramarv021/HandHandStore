@@ -1,0 +1,2 @@
+rootProject.name='Second Hand Store'
+include ':app'

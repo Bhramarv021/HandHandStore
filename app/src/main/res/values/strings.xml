@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Second Hand Store</string>
+    <string name="dealing_in_second_hand_furniture">Deals in Second Hand Furniture</string>
+    <string name="second_hand_store">Second Hand Store</string>
+    <string name="contact_us">Contact us</string>
+    <string name="servicesProviding">*We also provide services like repairing furniture and polishing</string>
+    <string name="address">Address : Building No-8, Manitoba, Canada</string>
+    <string name="mobileNo">Mobile No. : 745876213XX</string>
+    <string name="website">Website : https://www.secondhandforyou.com</string>
+    <string name="officeTimings">Working Hours : 10:00 A.M. - 07:00 P.M. </string>
+    <string name="anotherService">*We have been serving since last 10 years and our speciality is in sales and polishing of sofa and table</string>
+</resources>
