@@ -16,6 +16,6 @@
  4. Elements are specified in dp, text is specified in sp.
  
  ## App ScreenShot
- <img src="https://github.com/Bhramarv021/HandHandStore/blob/master/screenshot/App%20Screenshot.jpeg" height="600"/>
+ <img src="https://github.com/Bhramarv021/HandHandStore/blob/master/screenshot/App%20Screenshot%20updated.jpeg" height="600"/>
  
  #### Review Status : "PASSED"
